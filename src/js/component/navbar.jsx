@@ -1,9 +1,9 @@
 import React from "react";
 const Navbar = () => {
 return (
-<nav className="navbar navbar-expand-lg navbar-light bg-dark ">
+<nav className="navbar navbar-expand-lg navbar-light bg-dark  p-3">
   <div className="container-fluid ">
-    <a className="navbar-brand text-light" href="#">Navbar</a>
+    <a className="navbar-brand text-light" href="#">Bootstrap</a>
     <button className="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
